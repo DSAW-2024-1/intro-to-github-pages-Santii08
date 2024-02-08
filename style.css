@@ -12,20 +12,28 @@
     font-weight: normal;
     font-style: normal;
 }
-body{
+body {
     font-family: 'Outfit';
-        background-color: hsl(30, 54%, 90%);
-        width: 100%;
-        max-width: 375px;
-        margin: 0 auto;
-        
-    @media (min-width: 376px) 
-    {
-      body 
-      {
+    background-color: hsl(30, 54%, 90%);
+    width: 100%;
+    max-width: 375px;
+    margin: 0 auto;
+
+}
+
+@media (min-width: 376px) {
+    body {
         max-width: 1440px;
-      }
-    }   
+    }
+}
+@media only screen and (max-width: 600px) {
+    /* Estilos para dispositivos móviles */
+}
+
+@media (min-width: 820px) {
+    body {
+        max-width: 1180px;
+    }
 }
 h1{
     font-family:'Young serif';

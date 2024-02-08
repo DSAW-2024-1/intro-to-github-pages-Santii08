@@ -14,4 +14,7 @@ Para esto es necesario que suban los cambios de su repositorio anterior a este r
 El taller estará finalizado una vez suban su página a internet y agregue a continuación el link:
 - **Link del sitio web desplegado:**
 Link: https://dsaw-2024-1.github.io/intro-to-github-pages-Santii08/
-P.D. las imaganes de los dos jueguito se encuentran en el repositorio
+<img src="JuegoCSSdine.png" alt="KITCHEN">
+<img src="JueguitoPlantasCSS.png" alt="PLANTS">
+<img src="JueguitoRanasCSS.jpg" alt="FROG">
+
